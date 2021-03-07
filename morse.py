@@ -36,4 +36,4 @@ while True:
         else:
             print('Escolha errada, tente novamente')
     except:
-        print('TESTE ANA !')
+        print('Escolha errada, tente novamente')
