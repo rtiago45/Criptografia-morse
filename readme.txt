@@ -1,0 +1,1 @@
+Projeto criado para ser uma linguagem de criptografia, tendo a possibilidade de criptografar e descriptografar o que digitado no INPUT.
